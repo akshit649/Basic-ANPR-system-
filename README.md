@@ -2,7 +2,7 @@
 An ANPR system built with Python uses image processing and OCR to automatically detect and read vehicle license plates from images or video.
 # Steps
 1. Clone the repository:
-    * git clone https://github.com/shivampetwal/ANPR-system.git
+    * git clone (https://github.com/akshit649/Basic-ANPR-system-)
 
 2. Navigate to the project directory : 
     * cd ANPR-system
